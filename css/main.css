@@ -1,0 +1,29 @@
+body {
+    justify-content: center;
+    height: 300px;
+}
+
+h1 {
+    background-color: #88BC72;
+}
+
+.x, .htcs {
+    display: inline-block;
+}
+
+button {
+    background-color: #DC5B5B;
+}
+
+input, .add-skill {
+    display: inline-flex;
+}
+
+.add-skill {
+    background-color: #88BC72;
+    color: white;
+}
+
+input {
+    border: 3px solid #88BC72; 
+}
